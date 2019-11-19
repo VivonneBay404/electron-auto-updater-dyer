@@ -1,0 +1,5 @@
+owner: VivonneBay404
+repo: electron-auto-updater-dyer
+provider: github
+token: fdb2005b3d3aea0ab2de6e9baab516fc2cba20b1
+updaterCacheDirName: electron-auto-updater-dyer-updater

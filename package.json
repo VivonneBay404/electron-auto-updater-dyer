@@ -1,6 +1,6 @@
 {
   "name": "electron-auto-updater-dyer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "main.js",
   "scripts": {
@@ -22,5 +22,15 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/VivonneBay404/electron-auto-updater-dyer.git"
+  },
+  "build": {
+    "win": {
+      "publish": [
+        {
+          "provider": "github",
+          "token": "fdb2005b3d3aea0ab2de6e9baab516fc2cba20b1"
+        }
+      ]
+    }
   }
 }

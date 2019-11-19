@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: electron-auto-updater-dyer-Setup-1.0.0.exe
+    sha512: T3kIyagQCNYTm5f98Pl7PLqgErxQicZ2+FyCbm+U9QH3gZ7Azau+cfvYfLjeFZjOhYU4wFkksJ8G65i0+hLYFQ==
+    size: 43084182
+path: electron-auto-updater-dyer-Setup-1.0.0.exe
+sha512: T3kIyagQCNYTm5f98Pl7PLqgErxQicZ2+FyCbm+U9QH3gZ7Azau+cfvYfLjeFZjOhYU4wFkksJ8G65i0+hLYFQ==
+releaseDate: '2019-11-19T02:51:43.931Z'
